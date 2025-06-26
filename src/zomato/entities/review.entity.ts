@@ -29,4 +29,5 @@ export class Review {
 
   @UpdateDateColumn()
   updatedAt: Date;
+  
 }
